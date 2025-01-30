@@ -1,0 +1,36 @@
+[data-theme="light"] {
+    --color-Bg-Primary:#fff4ea;
+    --color-Lb-Primary-Title:#151514;
+    --color-Lb-Primary-Paragraph:#2e2d2b;
+
+    --color-Bg-Secondary-degrades1:#151514;
+    --color-Bg-Secondary-degrades2:#4a4743;
+    --color-Bg-Secondary-degrades3:#1515141a;
+    --color-Lb-Secondary:#fff4ea;  
+
+
+    --color-Button-Bg-Primary:#020f1f;
+    --color-Button-Bg-Primary-hover:#066a61;
+    --color-Button-Lb-Primary:#fff4ea;
+
+    --color-Button-Lb-Secondary:#fff4ea;
+    --color-Button-Lb-Secondary-hover:#f6a350;
+
+    --color-Input-Bg-Primary:#fff4ea;
+    --color-Input-Lb-Primary:#66615b;
+
+    --color-listItem-Bg-Primary:#fff4ea;
+    --color-listItem-Lb-Primary:#020f1f;
+
+    --color-Carts-Bg-Primary:#d1e5fd;
+    --color-Carts-Lb-Primary-Title:#151514;
+    --color-Carts-Lb-Primary-Paragraph:#4a4743;
+
+    --color-Conversion-Bg-Primary:#020f1f;
+    --color-Conversion-Lb-Primary:#d1e5fd;
+    --color-Conversion-Lb-Price:#1fc16b;
+
+    --color-Footter-Bb-Primary:#f6a350;
+    --color-Footter-Lb-Primary:#084792;
+}
+
