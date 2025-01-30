@@ -1,0 +1,24 @@
+{
+  "name": "conoceelmundo",
+  "version": "1.0.0",
+  "description": "aprender a usar apis",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas64mil/ConoceElMundo.git"
+  },
+  "keywords": [
+    "[\"javascript\"",
+    "\"frontend\"",
+    "\"UX/UI\"]"
+  ],
+  "author": "Sebastian villamil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas64mil/ConoceElMundo/issues"
+  },
+  "homepage": "https://github.com/sebas64mil/ConoceElMundo#readme"
+}
