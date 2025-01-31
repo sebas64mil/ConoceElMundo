@@ -1,1 +1,1 @@
-# ConoceElMundo
+# Generator cubemap
